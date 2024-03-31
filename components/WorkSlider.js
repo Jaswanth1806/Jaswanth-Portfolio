@@ -34,7 +34,7 @@ export const workSlider = {
         },
         {
           title: 'Colour Guessing Game',
-          path: '/color copy.png',
+          path: '/color.png',
           text: (
             <div style={{ textAlign: 'left' }}>
               <ul style={{ listStyleType: 'disc', paddingLeft: '1.5rem' }}>
