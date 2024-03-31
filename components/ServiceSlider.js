@@ -34,7 +34,7 @@ export const serviceData = [
     icon: <SiIbm />,
     path: '/IBM_logo_in.jpg',
     title: 'Software Developement',
-    date: 'May 2019 - Jun 2022',
+    date: 'May 2020 - Jun 2022',
     description: 'Bangalore, IND',
     text: (
       <div style={{ textAlign: 'left' }}>
@@ -53,7 +53,7 @@ export const serviceData = [
     icon: <SiIbm />,
     path: '/IBM_logo_in.jpg',
     title: 'Software Developement Intern',
-    date: 'May 2018 - Apr 2019',
+    date: 'May 2019 - Apr 2020',
     description: 'Bangalore, IND',
     text: (
       <div style={{ textAlign: 'left' }}>
@@ -69,7 +69,7 @@ export const serviceData = [
     icon: <RxDesktop />,
     path: 'KL.jpeg',
     title: 'Student Teaching Assistance',
-    date: 'May 2017 - Apr 2018',
+    date: 'Dec 2018 - Apr 2019',
     description: 'Guntur, IND',
     text: (
       <div style={{ textAlign: 'left' }}>
@@ -78,6 +78,20 @@ export const serviceData = [
           <li>Assisted in the implementation of CI/CD pipelines using Git, Jira, and Jenkins for 2 product ideas, reducing deployment errors by 20% and accelerating time-to-market by 15%.</li>
           <li>Participated in API architecture discussions, proposing optimizations that led to a 25% decrease in latency and a 20% improvement in throughput for 3 incubation projects.</li>
         </ul>
+      </div>
+    ),
+  },
+  {
+    icon: <RxDesktop />,
+    path: 'UB.jpeg',
+    title: 'Technical Student Assistance',
+    date: 'Oct 2022 - May 2023',
+    description: 'Buffalo, USA',
+    text: (
+      <div style={{ textAlign: 'left' }}>
+        <ul style={{ listStyleType: 'disc', paddingLeft: '1.5rem' }}>
+          <li>Spearheaded resolution of complex technical issues for students, ensuring seamless connectivity by troubleshooting WiFi connectivity problems and resolving login issues for university-related sites and the DUO authentication app.</li>
+          <li>Elevated user experience by creating new designs and maintaining the "UB Help Desk" website, employing cutting-edge technologies including JavaScript, CSS, HTML, React.js, and PostgreSQL database, streamlining issue reporting and resolution processes.</li>
       </div>
     ),
   },
