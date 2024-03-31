@@ -1,5 +1,5 @@
 // components
-import EducationSliders from '/Users/jaswanthreddyangeri/Desktop/Jaswanth-portfolio/components/EducationSliders.js';
+import EducationSliders from '../../components/EducationSliders.js';
 
 // framer motion
 import { motion } from'framer-motion';
