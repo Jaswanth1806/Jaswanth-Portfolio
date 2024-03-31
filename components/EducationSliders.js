@@ -27,8 +27,8 @@ export const educationsliders = [
       <div>
         <h1 style={{ fontWeight: 'bold', fontSize: '1.5em' }}>Bachelor of Engineering, Computer Science & Engineering</h1>
         <h2>
-        <span>Jul 20<span className="text-accent">15</span></span> -
-        <span> May 20<span className="text-accent">29</span></span> {/* Applying the class for blue color */}
+        <span>Jul 20<span className="text-accent">16</span></span> -
+        <span> May 20<span className="text-accent">20</span></span> {/* Applying the class for blue color */}
         </h2>
         <h3 style={{ textDecoration: 'underline' }}>Relevant Coursework:</h3><p>Fundamentals of Operating Systems, Object Oriented Programming, Data Structures and Algorithms</p>
       </div>
