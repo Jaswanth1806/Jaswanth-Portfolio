@@ -87,8 +87,16 @@ export const aboutData = [
         stage: '2022 - 2023',
       },
       {
+        title: 'Technical Student Assistance - UB, CDS',
+        stage: '2022 - 2023',
+      },
+      {
+        title: 'Senior Software Engineer - IBM',
+        stage: '2021 - 2022',
+      },
+      {
         title: 'Software Engineer - IBM',
-        stage: '2019 - 2022',
+        stage: '2019 - 2021',
       },
       {
         title: 'Software Developer Inter - IBM',
