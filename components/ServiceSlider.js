@@ -33,7 +33,25 @@ export const serviceData = [
   {
     icon: <SiIbm />,
     path: '/IBM_logo_in.jpg',
-    title: 'Software Developement',
+    title: 'Senior Software Engineer',
+    date: 'May 2020 - Jun 2022',
+    description: 'Bangalore, IND',
+    text: (
+      <div style={{ textAlign: 'left' }}>
+        <ul style={{ listStyleType: 'disc', paddingLeft: '1.5rem' }}>
+          <li>Developed and deployed multiple projects for clients within the Banking/Finance sector using modern JavaScript and React Framework, ensuring high performance and timely delivery.</li>
+          <li>Orchestrated a client needs assessment and solution design for a major Banking client, leading to a customized integration that increased the client's operational efficiency by 30% within the first year.</li>
+          <li>Migrated Java/Node.js/React.js based applications to AWS, utilizing various AWS services like Lambda, Step functions, S3 bucket, CloudFront, WAF, API Gateway.</li>
+          <li>Established optimized team workflows, enhancing productivity in specific scenarios and fostering efficient project completion.</li>
+          <li>Maintained regular collaboration with backend, testing, and business analyst teams, as well as stakeholders, to ensure clearcommunication, set correct expectations, and efficiently deliver project outcomes.</li>
+        </ul>
+      </div>
+    ),
+  },
+  {
+    icon: <SiIbm />,
+    path: '/IBM_logo_in.jpg',
+    title: 'Software Engineer',
     date: 'May 2020 - Jun 2022',
     description: 'Bangalore, IND',
     text: (
