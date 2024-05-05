@@ -41,6 +41,7 @@ export const serviceData = [
         <ul style={{ listStyleType: 'disc', paddingLeft: '1.5rem' }}>
           <li>Spearheaded resolution of complex technical issues for students, ensuring seamless connectivity by troubleshooting WiFi connectivity problems and resolving login issues for university-related sites and the DUO authentication app.</li>
           <li>Elevated user experience by creating new designs and maintaining the "UB CDS" website, employing cutting-edge technologies including JavaScript, CSS, HTML, React.js, and PostgreSQL database, streamlining issue reporting and resolution processes.</li>
+        </ul>
       </div>
     ),
   },
@@ -106,9 +107,8 @@ export const serviceData = [
     text: (
       <div style={{ textAlign: 'left' }}>
         <ul style={{ listStyleType: 'disc', paddingLeft: '1.5rem' }}>
-          <li>Collaborated with senior leads on 4 strategic initiatives, contributing to the development of 8 microservices using Java and scripting technologies, resulting in a 30% improvement in system modularity.</li>
-          <li>Assisted in the implementation of CI/CD pipelines using Git, Jira, and Jenkins for 2 product ideas, reducing deployment errors by 20% and accelerating time-to-market by 15%.</li>
-          <li>Participated in API architecture discussions, proposing optimizations that led to a 25% decrease in latency and a 20% improvement in throughput for 3 incubation projects.</li>
+          <li>Worked as a peer mentor for courses ’Operating Systems,’ ’Analysis and design of algorithms,’ and ’Enterprise Programming,’ supporting over 70 students. where I helped in collaborative learning among my peers and assisted my faculty in the lab work.</li>
+          <li>Solved students concerns about their projects, assignments and labs in HTML, CSS, Javascript, Java, Unix and Linux concepts and logic building.</li>
         </ul>
       </div>
     ),
