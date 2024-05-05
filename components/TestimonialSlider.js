@@ -130,7 +130,7 @@ export const testimonialSlider = [
       </div>
     ),
     message:
-      'I am a certified Software Engineer by Hackerrank, specializing in Problem Solving, SQL, and Rest API development. With proficiency in problem-solving methodologies, I excel in devising efficient algorithms and implementing them in various programming languages. My expertise in SQL enables me to design and optimize database structures, ensuring smooth data retrieval and management. Additionally, I have a strong understanding of Rest API principles, allowing me to develop robust and scalable web services. My Hackerrank certification validates my skills and commitment to continuous learning and problem-solving, making me a valuable asset to any software development team.',
+      'I am a certified Software Engineer by Hackerrank, specializing in Problem Solving, SQL, and Rest API development. With proficiency in problem-solving methodologies, I excel in devising efficient algorithms and implementing them in various programming languages. My expertise in SQL enables me to design and optimize database structures, ensuring smooth data retrieval and management. Additionally, I have a strong understanding of Rest API principles, allowing me to develop robust and scalable web services.',
   },
 ];
 
