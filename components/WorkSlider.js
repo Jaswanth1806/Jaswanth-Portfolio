@@ -63,24 +63,6 @@ export const workSlider = {
         },
       ],
     },
-    {
-      images: [
-        {
-          title: 'Hallucination-in-Chat-bots',
-          path: '/Hallu.jpeg',
-          text: (
-            <div style={{ textAlign: 'left' }}>
-              <ul style={{ listStyleType: 'disc', paddingLeft: '1.5rem' }}>
-                <li>Investigated and addressed the issue of hallucinations in chatbot responses, fine-tuned the model for reduced hallucination, resulting in responses up to 82% hallucination-free, contributing to heightened chat-bot reliability</li>
-                <li>Developed a robust model built on RoBERTa for hallucination detection and VRM classification in chat-bot responses and achieved an accuracy of 87.4%</li>
-              </ul>
-              <p><span className='text-orange-500'>#nlp </span><span className='text-blue-500'>#ai#ml </span><span className='text-green-500'>#dl</span></p>
-            </div>
-          ),
-          githubLink: 'https://github.com/BaluHarshavardan99/Hallucination-in-Chat-bots/blob/main/baluhars.pdf',
-        },
-
-      ],
     },
   ],
 };
