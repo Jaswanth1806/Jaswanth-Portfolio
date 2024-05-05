@@ -22,7 +22,7 @@ const ProjectsBtn = () => {
           <HiArrowRight className='absolute text-4xl group-hover:translate-x-2 transition-all duration-300' />
         </Link>
       </div>
-      <a href='https://drive.google.com/file/d/1XumGHpcpipFJ9VeGQkRRg9sg39Q4aPBX/view?usp=sharing' target='_blank' rel='noopener noreferrer' className='bg-accent hover:bg-accent-dark text-white font-bold py-2 px-4 rounded-full'>Here is My Resume</a>
+      <a href='https://drive.google.com/file/d/1rvhjG6E0iXrotkJmuphmyrhhtS41JsnH/view?usp=sharing' target='_blank' rel='noopener noreferrer' className='bg-accent hover:bg-accent-dark text-white font-bold py-2 px-4 rounded-full'>Here is My Resume</a>
     </div>
   );
 };
